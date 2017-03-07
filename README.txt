@@ -1,4 +1,11 @@
-Bayesian averaging over Decition Tree models with Markov Chain Monte Carlo
+Bayesian averaging over Decition Tree models with Markov Chain Monte Carlo.
+
+Details of implementation are descrived in:
+
+Schetinin V, Fieldsend JE, Partridge D, Krzanowski WJ, Everson RM, Bailey TC. 
+The Bayesian Decision Tree Technique with a Sweeping Strategy. In: 
+The International Conference on Advances in Intelligent Systems. 
+IEEE Computer Society; 2004.
 
 Matlab scripts and functions: 
 
